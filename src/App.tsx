@@ -16,7 +16,7 @@ const mainSections: Section[] = [
   {
     id: 'introduction',
     title: 'Introduction',
-    content: "Welcome to the wolrd of Synthetic Sacrifice. On this page i will present you every aspect of the game that has already been decided.",
+    content: "Welcome to the world of Synthetic Sacrifice. On this page i will present you every aspect of the game that has already been decided. Tho everything is subject to change.",
     isParent: false
   },
   {
@@ -162,8 +162,7 @@ The point of the contract was not only to kill Z but also to erase all the proof
         title: 'Side Characters',
         content: `- Grim Fang : He is the guy that leaves you with a missing leg and a missing arm. He is a homeless cannibal who got consumed by the society and mego corporation. He used to be employed by Z. [Story to be written]. One of the player's choices to guide him through the ending will be to kill Grim or not. 
 
-- Von Beber:  
-A former train driver turned mad by the recurring suicides in the city metro. He fell into synthetic drug addiction, is very mentally unstable and can either be a friend or a foe to the main character depending on his choices. 
+- Von Beber: He is a former train driver turned mad by the recurring suicides in the city metro. He fell into synthetic drug addiction, is very mentally unstable and can either be a friend or a foe to the main character depending on his choices. 
 
 - Anti-brodu : He is a washed-up ex-hacker, paranoid and always on edge, but his parrot is the real mastermind. Fitted with a neural uplink and a modified voice synthesizer, the parrot is an elite-level hacker, capable of infiltrating even the most secure networks. Anti-brodu treats him like an old war buddy, constantly arguing with the bird as if they were equals. Whether they help or betray the player depends on how much trust they have in them.  
 
@@ -219,7 +218,7 @@ An underground city very gotham vibe where no law applies. Murder at every corne
   {
     id: 'conclusion',
     title: 'Conclusion',
-    content: `Synthetic Sacrifice is a 2D browser-based RPG set in a fractured cyberpunk world. Players begin as a limbless amnesiac, scavenging cybernetics to survive, with choices shaping seven distinct endings—from corporate allegiance to revolution. Gameplay blends click-based exploration, turn-based combat, and an XP-driven upgrade system across zones like a neon metropolis, lawless slums, and a desert wasteland. Moral ambiguity, branching narratives, and challenging bosses emphasize strategic decisions, while mature themes of violence and consequence anchor its gritty, replayable experience.`,
+    content: `Synthetic Sacrifice is a 2D-3D hybrid RPG set in a fractured cyberpunk world. Players begin as a limbless amnesiac, scavenging cybernetics to survive, with choices shaping seven distinct endings—from corporate allegiance to revolution. Gameplay blends click-based exploration, turn-based combat, and an XP-driven upgrade system across zones like a neon metropolis, lawless slums, and a desert wasteland. Moral ambiguity, branching narratives, and challenging bosses emphasize strategic decisions, while mature themes of violence and consequence anchor its gritty, replayable experience.`,
     isParent: false
   },
 ];
